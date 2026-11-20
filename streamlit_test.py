@@ -15,7 +15,5 @@ else:
     season = "Special"
     ep = "Hold on I'm working on it"
 
-print(season, ep)
-
 st.header(f"Season {season}, Episode {ep}")
 st.write("Refresh the page to get a new episode (while I figure out how to put in an auto reset button & include the specials lol)")
